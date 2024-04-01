@@ -1,0 +1,50 @@
+<template><div><h1 id="informationen" tabindex="-1"><a class="header-anchor" href="#informationen"><span>Informationen</span></a></h1>
+<h2 id="das-bin-ich" tabindex="-1"><a class="header-anchor" href="#das-bin-ich"><span>Das bin ich</span></a></h2>
+<p>Als staatlich geprüfter Lehrer für die Fächer Sport und Physik habe ich mich 2017 für eine Laufbahn in der Informatik entschieden. Nach kurzer Zeit hat das Frontend-Framework Vue.js mein Herz erobert.</p>
+<p>Mit nun bereits über 6 Jahren Berufserfahrung möchte ich meine Leidenschaft und mein Wissen teilen.</p>
+<p>Seit über 18 Jahren betreibe ich aktiv Turniertanzsport. Der Fokus liegt auf dem Lateinbereich. Gerade die Kombination aus hoher Bewegungsvielfalt, sportlicher Aktivität und dem Führen-und-Folgen im Paartanz haben mich schon im Alter von 16 Jahren in ihren Bann gezogen.</p>
+<p>Im meiner sonstigen Freizeit beschäftige ich mich viel mit Technik, Elektronik sowie Mechanik. Seit 2022 bin ich FPV Drohnen Pilot und fliege vor allem kleine &quot;Tiny Whoops&quot; in der Wohnung. Da mein ursprünglicher Traum, Strahlenjet-Pilot zu werden, nicht realisiert werden konnte, bietet mir das FPV Fliegen eine großartige und weniger Lebensgefährliche alternative. Sie kombiniert Software, Konfiguration und Videografie mit Modellbau, Elektronik und der Freiheit des Luftraumes.</p>
+<h2 id="meine-mission-und-vision" tabindex="-1"><a class="header-anchor" href="#meine-mission-und-vision"><span>Meine Mission und Vision</span></a></h2>
+<p>Willkommen auf meiner Seite, wo meine Leidenschaft für Webentwicklung auf meine Begeisterung zum Lernen und Lehren trifft.</p>
+<p>Meine Mission ist es, eine inspirierende Plattform zu schaffen, die nicht nur aktuell und informativ ist, sondern auch mir und anderen Entwicklern ermöglicht, kreative Visionen problemlos umzusetzen.</p>
+<p>Ich glaube daran, dass jeder Entwickler, unabhängig von Erfahrung oder Hintergrund, die Werkzeuge und Ressourcen verdient, um moderne und beeindruckende Webanwendungen zu schaffen.</p>
+<p>Meine Vision ist es, eine blühende Gemeinschaft von Entwicklern zu fördern, die sich in einer Umgebung austauschen, inspirieren und unterstützen können.</p>
+<p>Mit Vue.js als Herzstück meines Projekts strebe ich nicht nur danach, Code zu schreiben, sondern auch Andere dafür zu begeistern.</p>
+<h2 id="kenntnisse-und-fahigkeiten" tabindex="-1"><a class="header-anchor" href="#kenntnisse-und-fahigkeiten"><span>Kenntnisse und Fähigkeiten</span></a></h2>
+<p><strong>Fachexperte in Vue.js:</strong>
+Mit umfangreichen Kenntnissen in Vue.js und einem klaren Fokus auf Effizienz und Lesbarkeit habe ich zahlreiche Techniken und Best Practices entwickelt, um hochwertigen Code zu produzieren.&quot;,</p>
+<p><strong>Fortgeschrittene Entwicklungstechniken:</strong>
+Ich beherrsche fortgeschrittene Techniken zur effizienten Entwicklung mit Vue.js und strebe stets danach, sauberen und gut wartbaren Code zu schreiben.&quot;,</p>
+<p><strong>Updates und Neuerungen:</strong> Durch regelmäßige Überprüfung von Changelogs, offiziellen Websites und direkten Austausch in der Vue.js-Community halte ich mich stets über die neuesten Entwicklungen auf dem Laufenden.</p>
+<p><strong>Migrations-Expertise:</strong> Ich habe Erfahrung in der Migration von Vue.js-Anwendungen, einschließlich der Migration auf die neueste Version 3 und der Umstellung auf TypeScript-basierte Architekturen.</p>
+<p><strong>Testautomatisierung:</strong> Ich bin versiert in der Erstellung von Unittests, End-to-End-Tests und der Nutzung moderner Testtechnologien wie Vitest, Sonarqube, Veracode und Cypress, um die Qualität und Robustheit meiner Anwendungen sicherzustellen.</p>
+<h2 id="kenntnisse-und-fahigkeiten-1" tabindex="-1"><a class="header-anchor" href="#kenntnisse-und-fahigkeiten-1"><span>Kenntnisse und Fähigkeiten</span></a></h2>
+<p><strong>Erfahrener Lehrer:</strong> Als examinierter Lehrer bin ich erfahren im Aufbereiten von Inhalten und im Sprechen vor Lernenden. Ich passe meine Schulungsmethoden an die Bedürfnisse meiner Teilnehmer an und sorge dafür, dass komplexe technische Konzepte klar und verständlich vermittelt werden.</p>
+<p><strong>Kommunikationsfähigkeiten:</strong> Ich bin erfahren darin, komplexe technische Konzepte verständlich und zugänglich zu vermitteln, sei es in Teammeetings, Schulungen oder bei der Zusammenarbeit mit Kunden.</p>
+<h2 id="schulungen-vortrage" tabindex="-1"><a class="header-anchor" href="#schulungen-vortrage"><span>Schulungen / Vorträge</span></a></h2>
+<p>Als examinierter Lehrer und leidenschaftlicher Vue.js-Entwickler mit über 5 Jahren Erfahrung bringe ich eine einzigartige Kombination von Fähigkeiten mit, um komplexe technische Konzepte verständlich und ansprechend zu vermitteln.</p>
+<p>Mit meinem Hintergrund in der Lehrerausbildung und meiner Expertise in Vue.js biete ich maßgeschneiderte Schulungen an, die darauf abzielen, das Verständnis und die Fähigkeiten Ihrer Mitarbeiter zu verbessern und ihnen zu helfen, erstklassige Vue.js-Anwendungen zu entwickeln.</p>
+<p>Hier kann man mir eine <a href="mailto:fischerdavid1987@gmail.com">Mail schreiben</a></p>
+<h3 id="preisstruktur" tabindex="-1"><a class="header-anchor" href="#preisstruktur"><span>Preisstruktur:</span></a></h3>
+<ul>
+<li>1 Stunde: 115 €</li>
+<li>Tagessatz (bis 9 Stunden): 1000 €</li>
+<li>Anfahrt: 0,30 € pro Kilometer</li>
+</ul>
+<h3 id="ausrustung" tabindex="-1"><a class="header-anchor" href="#ausrustung"><span>Ausrüstung:</span></a></h3>
+<p>Ich bringe meinen eigenen Laptop für die Schulungen mit. Der Kunde muss einen Beamer oder ähnliches zur Verfügung stellen, um die Schulungsinhalte zu projizieren.</p>
+<h3 id="rucktrittsbedingungen" tabindex="-1"><a class="header-anchor" href="#rucktrittsbedingungen"><span>Rücktrittsbedingungen:</span></a></h3>
+<p>Für Stornierungen oder Änderungen von Schulungsterminen gelten folgende Richtlinien:</p>
+<ul>
+<li>Stornierungen, die weniger als 2 Werktage (Montag bis Freitag) vor dem vereinbarten Schulungstermin erfolgen, unterliegen einer Stornierungsgebühr von 25% des vereinbarten Preises.</li>
+<li>Stornierungen, die mehr als 2 Werktage (Montag bis Freitag) Tage vor dem vereinbarten Schulungstermin erfolgen, sind kostenfrei.</li>
+</ul>
+<h3 id="zahlungsbedingungen" tabindex="-1"><a class="header-anchor" href="#zahlungsbedingungen"><span>Zahlungsbedingungen:</span></a></h3>
+<ul>
+<li>Die Zahlung für Schulungen ist 30 Tage nach Rechnungsstellung fällig.</li>
+<li>Zahlungen können per Banküberweisung oder PayPal erfolgen.</li>
+<li>Bei Verspätungen bei der Zahlung können Verzugszinsen in Höhe von 8,62 % (§288 Absatz 1 BGB) bzw. 12,62 % (§288 Absatz 2 BGB) erhoben werden</li>
+</ul>
+</div></template>
+
+
